@@ -1,14 +1,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjhashemian&label=Profile%20views&color=0e75b6&style=flat" alt="mjhashemian" /> </p>
 
-- 🔭 I’m currently working on [gamelander](https://gamelander.ir)
-
-- 💬 Ask me about **react , pwa , typeScript**
-
-- 💻 my last package [persian-numbers-input](https://www.npmjs.com/package/persian-numbers-input)
-
-- 🤝 I’m looking for next package **persianDatePicker**
-
 - 📫 How to reach me **m.jhashemian81@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
